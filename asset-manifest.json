@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ej-design-system/static/css/main.00adf9cf.chunk.css",
-    "main.js": "/ej-design-system/static/js/main.fadc4cb9.chunk.js",
-    "main.js.map": "/ej-design-system/static/js/main.fadc4cb9.chunk.js.map",
+    "main.js": "/ej-design-system/static/js/main.38757d72.chunk.js",
+    "main.js.map": "/ej-design-system/static/js/main.38757d72.chunk.js.map",
     "runtime-main.js": "/ej-design-system/static/js/runtime-main.dbb57189.js",
     "runtime-main.js.map": "/ej-design-system/static/js/runtime-main.dbb57189.js.map",
     "static/js/2.dff62361.chunk.js": "/ej-design-system/static/js/2.dff62361.chunk.js",
     "static/js/2.dff62361.chunk.js.map": "/ej-design-system/static/js/2.dff62361.chunk.js.map",
     "index.html": "/ej-design-system/index.html",
-    "precache-manifest.f02ad16cce8a11868b5f26fcbe388405.js": "/ej-design-system/precache-manifest.f02ad16cce8a11868b5f26fcbe388405.js",
+    "precache-manifest.fbf34d4cf4b5479257ceea57de1032bb.js": "/ej-design-system/precache-manifest.fbf34d4cf4b5479257ceea57de1032bb.js",
     "service-worker.js": "/ej-design-system/service-worker.js",
     "static/css/main.00adf9cf.chunk.css.map": "/ej-design-system/static/css/main.00adf9cf.chunk.css.map",
     "static/js/2.dff62361.chunk.js.LICENSE.txt": "/ej-design-system/static/js/2.dff62361.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dbb57189.js",
     "static/js/2.dff62361.chunk.js",
     "static/css/main.00adf9cf.chunk.css",
-    "static/js/main.fadc4cb9.chunk.js"
+    "static/js/main.38757d72.chunk.js"
   ]
 }
