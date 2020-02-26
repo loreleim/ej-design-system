@@ -6,7 +6,7 @@ import Team from "./pages/team/index.js";
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route path="/" exact component={Home}></Route>
           <Route path="/team" component={Team}></Route>
